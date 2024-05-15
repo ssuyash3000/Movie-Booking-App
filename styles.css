@@ -315,7 +315,7 @@ body.modal-active .overlay {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    background-image: url(https://github.com/Dinesh1042/Vanilla-JavaScript-Projects/blob/main/Movie%20Booking/asset/c1.png?raw=true);
+    background-image: url("/asset/c1.png");
     background-size: 140%;
     background-position: top center;
     user-select: none;
